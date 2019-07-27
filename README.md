@@ -1,2 +1,2 @@
 # Image-Processing
-algorithms for image processing. 
+Algorithms for image processing. For the moment only in Matlab. 
