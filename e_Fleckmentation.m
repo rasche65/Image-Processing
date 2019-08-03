@@ -2,7 +2,7 @@
 % From 'Fleckmentation: Rapid Segmentation using Repeated 2-Means'
 % https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2018.6060
 % DOI:  10.1049/iet-ipr.2018.6060
-% https://www.researchgate.net/publication/326942893_Fleckmentation_Rapid_Segmentation_using_Repeated_2-Means
+% https://www.researchgate.net/publication/334393498_Fleckmentation_Rapid_Segmentation_using_Repeated_2-Means
 clear;
 Irgb        = imread('peppers.png');
 [m n nChB]  = size(Irgb);   szI=[m n];    nPix=m*n;
